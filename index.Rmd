@@ -10,7 +10,7 @@ Data and [R](https://www.r-project.org/) code for the analysis supporting this [
 
 ### Data
 
-We gathered the text of every State of the Union address from the [American Presidency Project](http://www.presidency.ucsb.edu/sou.php) at the University of California, Santa Barbara. These include speeches to joint sessions of Congress in presidents’ first years of office, which are not officially State of the Union addresses.
+We gathered the text of every State of the Union address from the [American Presidency Project](http://www.presidency.ucsb.edu/sou.php) at the University of California, Santa Barbara. These include speeches to joint sessions of Congress in presidents’ first years of office, which are not officially State of the Union addresses. Some of the addresses were written, some spoken. Where there was both a spoken address and a written message, we used the speech. In 1973, Richard Nixon sent an overview, plus multiple reports to Congress on various areas of policy. Here, we used his overview message.
 
 ### Setting up
 
