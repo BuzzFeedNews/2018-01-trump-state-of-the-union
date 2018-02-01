@@ -1,4 +1,4 @@
-# These Charts Show How The SOTU Language Has Changed With Each President
+# “I Have The Best Words.” How Trump’s First SOTU Compares To All The Others.
 
 Data and [R](https://www.r-project.org/) code underlying this Jan. 31, 2018 [BuzzFeed News article](https://www.buzzfeed.com/peteraldhous/trump-state-of-the-union-words) analyzing the text of every State of the Union address.
 
